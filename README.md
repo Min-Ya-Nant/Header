@@ -9,8 +9,7 @@
 index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖိုင်ထဲမှာ shift နဲ့ 1 ကို တွဲပြီး နှိပ်ပါ၊ 
 အသင့်ရေးပြီးသား နမူနာပုံစံငယ် ကျလာပါလိမ့်မယ်၊ အောက်ပါ နမူနာပုံစံကို ကြည့်ပါ။
 
-![alt text](<Screenshot from 2024-06-27 21-15-14.png>)
-
+![alt text](<Screenshot from 2024-06-27 21-37-28.png>)
  <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -69,19 +68,19 @@ index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖို�
 
 *  headrer tag ထဲမှာ Headr Section ဆိုတဲ့ ခေါင်းစဥ် ရေးခဲ့တာကို အမှတ်ရဥိးမယ်လို့ ထင်မိပါတယ်၊ header ဆိုတဲ့ ပုစံခွက်လေးထဲမှာ ခေါင်းစဥ်ကြီးကို ရေးလို့ ရသလိုမျိုး အခြားသော ခေါင်းစဥ်ငယ်များ၊ အရာဝတ္ထုများစွာကိုလည်း ရေးလို့ရပါတယ်၊ ဥပမာအားဖြင့် body footer တွေနဲ့ ချိတ်ဆက်ဖို့ link ကို ညွန်းဆိုတဲ့ menu concact about စတဲ့ navigation element တွေနဲ့ ရေးသားခြင်းတွေပဲဖြစ်ပါတယ်။ 
 
-### (<nav> <ul> <li> )ဆိုတဲ့ အဓိပ္ပါယ်။
+### nav ul li ဆိုတဲ့ အဓိပ္ပါယ်။
 
-(<nav>) = Navigation Bar အတွက် သတ်မှတ်ပေးထားခြင်းဖြစ်ပါတယ်။
-(<ul>) = Unordered List (၁၊ ၂၊ ၃ စသည်စီစဉ်မထားတဲ့ စာရင်း) ဖြစ်ပါတယ်။
-(<li>) = (List Item) တစ်ခုချင်းစီကို သိမ်းထားတာပါ။
-(<a href="#what-we-do">What We Do</a>) ဒီလိုရေးသားထားခြင်းက "What We Do" ဆိုတဲ့ စာသားကို `#what-we-do` ဆိုတဲ့ ID ရှိတဲ့နေရာကို လင့်ခ်ချိတ်ပေးတာ ဖြစ်ပါတယ်။
+nav = Navigation Bar အတွက် သတ်မှတ်ပေးထားခြင်းဖြစ်ပါတယ်။
+ul = Unordered List (၁၊ ၂၊ ၃ စသည်စီစဉ်မထားတဲ့ စာရင်း) ဖြစ်ပါတယ်။
+li = (List Item) တစ်ခုချင်းစီကို သိမ်းထားတာပါ။
+"#what-we-do" ဒီလိုရေးသားထားခြင်းက "What We Do" ဆိုတဲ့ စာသားကို `#what-we-do` ဆိုတဲ့ ID ရှိတဲ့နေရာကို လင့်ခ်ချိတ်ပေးတာ ဖြစ်ပါတယ်။
 
 ### ညွန်ကြားချက်။  လိုက်လုပ်ပါ။
 
-** header tag ထဲမှာ <nav> လို့ခေါ်တဲ့ navigation tag ကို ရေးရပါမယ်၊ <nav> tag ထဲမှာ <ul> လို့ခေါ်တဲ့ unordered list element ကို ရေးရပါမယ်၊ <ul> tag ထဲမှာ <li> လို့ခေါ်တဲ့ list item element ကို ရေးရပါမယ်၊ <li> tag ထဲမှာ Anchor element လို့ခေါ်တဲ့ <a> tag ကို ရေးရပါတယ်၊  
+** header tag ထဲမှာ nav လို့ခေါ်တဲ့ navigation tag ကို ရေးရပါမယ်၊ nav>tag ထဲမှာ ul လို့ခေါ်တဲ့ unordered list element ကို ရေးရပါမယ်၊ ul tag ထဲမှာ li လို့ခေါ်တဲ့ list item element ကို ရေးရပါမယ်၊ li tag ထဲမှာ Anchor element လို့ခေါ်တဲ့ a tag ကို ရေးရပါတယ်၊  
 
   အောက်ပါ ပုံစံကို ကြည့်ပါ။
-  
+
   ![alt text](<Screenshot from 2024-06-27 21-31-38.png>)
  
 <!-- navigation -->
