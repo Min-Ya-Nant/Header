@@ -9,11 +9,13 @@
 index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖိုင်ထဲမှာ shift နဲ့ 1 ကို တွဲပြီး နှိပ်ပါ၊ 
 အသင့်ရေးပြီးသား နမူနာပုံစံငယ် ကျလာပါလိမ့်မယ်၊ အောက်ပါ နမူနာပုံစံကို ကြည့်ပါ။
 
+![alt text](<Screenshot from 2024-06-27 21-15-14.png>)
+
  <!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <title>Student Bio</title>
+    <title>Document</title>
   </head>
   <body></body>
 </html>
@@ -24,7 +26,7 @@ index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖို�
 ၃။ Head tag  = (အဖွင့် အပိတ် တစ်စုံ) <head> </head>
   Head ထဲမှာ meta tag နဲ့ title tag အဖွင့် အပိတ် တစ်စုံ၊
   <meta charset="UTF-8">
-  <title>Header-Section</title>  
+  <title>Document</title>  
 ၄။ Body tag = (အဖွင့် အပိတ် တစ်စုံ) <body> </body>။ ဒီ tag လေးခုပဲ ဖြစ်ပါတယ်။
 
 
@@ -32,6 +34,8 @@ index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖို�
 
 *** body tag ထဲမှာ header tag ကို ရေးရပါမယ်၊ header tag ထဲမှာ h1 tag ကို ရေးပေးရပါမယ်၊ h1 tag ထဲမှာ ကိုယ် ပေးချင်တဲ့ ခေါင်းစဥ်နာမည်ကို ရေးပါ၊ ဥပမာဆိုပါစို့၊ ခေါင်းစဥ်ကို "RUN BUDDY" လို့ ပေးထားကြည့်ပါမယ်၊ အောက်မှာ ဒီပုံစံလေးကို မြင်ကြရပါမယ်။
 
+
+![alt text](<Screenshot from 2024-06-27 21-23-37.png>)
   <body>
     <header>
       <h1>
@@ -47,6 +51,7 @@ index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖို�
 
  * Header tag ထဲမှာ h1 tag နဲ့ ရေးပါမယ်၊ h1 tag  ထဲမှာ a tag (အဖွင့် အပိတ် တစ်စုံ) နဲ့ ရေးပါမယ်၊ a tag ထဲမှာ ကိုယ် ပေးချင်တဲ့ ခေါင်းစဥ်နာမည်ကို ရေးပါ၊ ဥပမာဆိုပါစို့၊ ခေါင်းစဥ်ကို "RUN BUDDY" လို့ ပေးထားကြည့်ပါမယ်၊ အောက်မှာ ဒီပုံစံလေးကို မြင်ကြရပါမယ်၊ 
 
+![alt text](<Screenshot from 2024-06-27 21-26-21.png>)
  <header>
     <h1>
       <a href="/">
@@ -64,18 +69,20 @@ index.html ဖိုင် ရပြီဆိုရင် အဲဒီဖို�
 
 *  headrer tag ထဲမှာ Headr Section ဆိုတဲ့ ခေါင်းစဥ် ရေးခဲ့တာကို အမှတ်ရဥိးမယ်လို့ ထင်မိပါတယ်၊ header ဆိုတဲ့ ပုစံခွက်လေးထဲမှာ ခေါင်းစဥ်ကြီးကို ရေးလို့ ရသလိုမျိုး အခြားသော ခေါင်းစဥ်ငယ်များ၊ အရာဝတ္ထုများစွာကိုလည်း ရေးလို့ရပါတယ်၊ ဥပမာအားဖြင့် body footer တွေနဲ့ ချိတ်ဆက်ဖို့ link ကို ညွန်းဆိုတဲ့ menu concact about စတဲ့ navigation element တွေနဲ့ ရေးသားခြင်းတွေပဲဖြစ်ပါတယ်။ 
 
-### <nav> <ul> <li> ဆိုတဲ့ အဓိပ္ပါယ်။
+### (<nav> <ul> <li> )ဆိုတဲ့ အဓိပ္ပါယ်။
 
-<nav> = Navigation Bar အတွက် သတ်မှတ်ပေးထားခြင်းဖြစ်ပါတယ်။
-<ul> = Unordered List (၁၊ ၂၊ ၃ စသည်စီစဉ်မထားတဲ့ စာရင်း) ဖြစ်ပါတယ်။
-<li> = (List Item) တစ်ခုချင်းစီကို သိမ်းထားတာပါ။
-<a href="#what-we-do">What We Do</a> ဒီလိုရေးသားထားခြင်းက "What We Do" ဆိုတဲ့ စာသားကို `#what-we-do` ဆိုတဲ့ ID ရှိတဲ့နေရာကို လင့်ခ်ချိတ်ပေးတာ ဖြစ်ပါတယ်။
+(<nav>) = Navigation Bar အတွက် သတ်မှတ်ပေးထားခြင်းဖြစ်ပါတယ်။
+(<ul>) = Unordered List (၁၊ ၂၊ ၃ စသည်စီစဉ်မထားတဲ့ စာရင်း) ဖြစ်ပါတယ်။
+(<li>) = (List Item) တစ်ခုချင်းစီကို သိမ်းထားတာပါ။
+(<a href="#what-we-do">What We Do</a>) ဒီလိုရေးသားထားခြင်းက "What We Do" ဆိုတဲ့ စာသားကို `#what-we-do` ဆိုတဲ့ ID ရှိတဲ့နေရာကို လင့်ခ်ချိတ်ပေးတာ ဖြစ်ပါတယ်။
 
 ### ညွန်ကြားချက်။  လိုက်လုပ်ပါ။
 
 ** header tag ထဲမှာ <nav> လို့ခေါ်တဲ့ navigation tag ကို ရေးရပါမယ်၊ <nav> tag ထဲမှာ <ul> လို့ခေါ်တဲ့ unordered list element ကို ရေးရပါမယ်၊ <ul> tag ထဲမှာ <li> လို့ခေါ်တဲ့ list item element ကို ရေးရပါမယ်၊ <li> tag ထဲမှာ Anchor element လို့ခေါ်တဲ့ <a> tag ကို ရေးရပါတယ်၊  
 
   အောက်ပါ ပုံစံကို ကြည့်ပါ။
+  
+  ![alt text](<Screenshot from 2024-06-27 21-31-38.png>)
  
 <!-- navigation -->
   <header>
